@@ -34,6 +34,10 @@
 
 /html/body/app-root/div[2]/app-login/div/div/form/p[2]/a
 
-=> OPTIONAL - only for me: password manager button
+=> OPTIONAL - only for me: password manager button for username form & password form
 
-//*[@id="norton-idsafe-field-logo-imgId"]
+(//*[@id="norton-idsafe-field-logo-imgId"])[1]
+
+(//*[@id="norton-idsafe-field-logo-imgId"])[last()]
+
+
