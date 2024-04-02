@@ -8,11 +8,11 @@
 
 => Username form
 
-//*[@id="defaultLoginFormUsername"]
+#defaultLoginFormUsername
 
 => Password form
 
-//*[@id="defaultLoginFormPassword"]
+#defaultLoginFormPassword
 
 => "Remember me" text
 
@@ -24,7 +24,7 @@
 
 => Sign in button
 
-//*[@id="sign-in-button"]
+#sign-in-button
 
 => "Not a member" text
 
@@ -34,6 +34,6 @@
 
 /html/body/app-root/div[2]/app-login/div/div/form/p[2]/a
 
-=> OPTIONAL: password manager button (NORTON pm)
+=> OPTIONAL - only for me: password manager button
 
 //*[@id="norton-idsafe-field-logo-imgId"]
