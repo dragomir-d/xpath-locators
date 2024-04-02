@@ -1,0 +1,35 @@
+=> Login frame
+
+/html/body/app-root/div[2]/app-login/div/div/form4
+
+=> "Sign in" text
+
+/html/body/app-root/div[2]/app-login/div/div/form/p[1]
+
+=> Username form
+
+//*[@id="defaultLoginFormUsername"]
+
+=> Password form
+
+//*[@id="defaultLoginFormPassword"]
+
+=> "Remember me" text
+
+/html/body/app-root/div[2]/app-login/div/div/form/div[3]/span
+
+=> Remember me checkbox
+
+/html/body/app-root/div[2]/app-login/div/div/form/div[3]/input
+
+=> Sign in button
+
+//*[@id="sign-in-button"]
+
+=> "Not a member" text
+
+/html/body/app-root/div[2]/app-login/div/div/form/p[2]/span
+
+=> Register anchor text
+
+/html/body/app-root/div[2]/app-login/div/div/form/p[2]/a
