@@ -33,3 +33,7 @@
 => Register anchor text
 
 /html/body/app-root/div[2]/app-login/div/div/form/p[2]/a
+
+=> OPTIONAL: password manager button (NORTON pm)
+
+//*[@id="norton-idsafe-field-logo-imgId"]
